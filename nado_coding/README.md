@@ -1,2 +1,1 @@
-- 나도코딩 (nadocoding.tistory.com) 참조
-- 소스 응용 및 버그 수정
+- 나도코딩 (nadocoding.tistory.com) 참조 => 소스 응용 및 버그 수정
