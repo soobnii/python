@@ -30,6 +30,8 @@ class Bubble(pygame.sprite.Sprite): # Sprite 상속
 			발사대 각도에 따라 어느 좌표로 움직일지 계산해야 하는데, 이때 삼각함수를 사용함
 			삼각함수를 사용하기 위해는 Math 라이브러리 사용.
 			Math 라이브러리 사용을 위해서는 호도법 (1pi. 2pi..) 으로 바꾸어줘야함
+			math.radians(90) = 3.141592.../2
+			math.radians(180) = 3.141592... = pi
 		'''
 		self.radi_angle = math.radians(self.angle) # 각도를 호도법으로 변경
 	
